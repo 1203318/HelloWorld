@@ -1,14 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//comment
-/*
-multi
-* 
-line
-comment
-*/
-
 int main(){
     cout<<"hello world"<<endl;
     //cout<<"hello world\n"; //same as above
